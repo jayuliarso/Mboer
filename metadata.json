@@ -1,0 +1,8 @@
+{
+  "name": "ePTI - e-Pengawas Teknik Terintegrasi",
+  "description": "Platform digital terintegrasi pengawasan teknik internal, PKPT, manajemen risiko, quality assurance, dan pengelolaan PPHP untuk Supervisor Pengawas Teknik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
